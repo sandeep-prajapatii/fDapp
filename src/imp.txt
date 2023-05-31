@@ -1,0 +1,6 @@
+contract address = 0x764f6e542c48106988e34448d86fd9a10e5f863c
+
+alchemy
+api key = 66OQLugKqK1Ri4Ct-lTs1MtQIwRe7jLe
+https= https://eth-sepolia.g.alchemy.com/v2/66OQLugKqK1Ri4Ct-lTs1MtQIwRe7jLe
+wesockets = wss://eth-sepolia.g.alchemy.com/v2/66OQLugKqK1Ri4Ct-lTs1MtQIwRe7jLe
